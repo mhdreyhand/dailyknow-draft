@@ -1,6 +1,6 @@
 ################### What is this Application ###################
 
-Ini adalah projek tengah semester pembuatan situs web pengolahan sistem manajemen basis data sederhana yang di gunakan untuk menyelesaikan proyek tengah semester mata kuliah Development Framework (DT120) yang diampu oleh dosen Hastari Utama, M. Cs di Universitas Amikom Yogyakarta tahun 2023 dengan memiliki ketentuan sebagai berikut:
+Ini adalah projek tengah semester pembuatan situs web pengolahan sistem manajemen basis data sederhana yang di gunakan untuk menyelesaikan proyek tengah semester mata kuliah Development Framework (DT120) yang diampu oleh dosen Hastari Utama, M. Cs di Universitas Amikom Yogyakarta tahun 2024 dengan memiliki ketentuan sebagai berikut:
 Menggunakan Framework Laravel dan database MySQL
 Memiliki tabel berelasi dan tanpa relasi
 Menggunakan template stisla (admin) yang kemudian dimodifikasi menjadi DailyKnow
